@@ -1,0 +1,13 @@
+{
+  "name": "dickbouncer",
+  "version": "1.0.0",
+  "description": "Open source debouncer.com, albeit slightly worse.",
+  "main": "index.js",
+  "author": "KUBBUR Limited",
+  "license": "MIT",
+  "dependencies": {
+    "cidr-tools": "^4.3.0",
+    "dnsbl": "^3.2.0",
+    "express": "^4.18.1"
+  }
+}
