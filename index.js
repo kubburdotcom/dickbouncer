@@ -105,5 +105,5 @@ app.get('/dickbounce', async (req, res) => {
 });
 
 app.listen(process.env.HTTP_PORT || 8080, () => {
-    console.log('Listening on port ' + process.env.HTTP_PORT || 8080);
+    console.log('Listening on port ' + (process.env.HTTP_PORT || 8080));
 });
