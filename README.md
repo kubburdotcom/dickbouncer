@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/sb9GY9e.gif" alt="Screenshot of the application UI" />
 
-This is a free alternative to debouncer.com. That being said, Debouncer is awesome, but this is for those who just want to check a subnet once or twice.
+This is a free alternative to debouncer.com. That being said, Debouncer is awesome, but this is for those who just want to check a subnet free of charge, and don't really care about speed.
 
 # use
 
@@ -24,7 +24,6 @@ GET /dickbounce?cidr=45.61.173.17
 []
 
 GET /dickbounce?cidr=185.244.95.6
-
 
 [
     {
