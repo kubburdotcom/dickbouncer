@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "KUBBUR Limited",
   "license": "MIT",
+  "scripts": {
+    "serve": "node index.js"
+  },
   "dependencies": {
     "cidr-tools": "^4.3.0",
     "dnsbl": "^3.2.0",
