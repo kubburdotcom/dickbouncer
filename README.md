@@ -42,9 +42,11 @@ GET /dickbounce?cidr=185.244.95.6
 
 # notes about reliability
 
-This application is extremely basic, you might even observe from index.js that we did not even use a templating engine for it. If you'd like to use it for yourselves, please go ahead and do so, but don't expect anything fancy. We tested this code with Node.js version 16+ and version 101 of Google Chrome, don't expect it to work in older versions.
+This application is extremely basic, you might even observe from index.js that we did not even use a templating engine for it. It was written in a hurry for our janky IP address monitoring setup. If you'd like to use it for yourselves, please go ahead and do so, but don't expect anything fancy. We tested this code with Node.js version 16+ and version 101 of Google Chrome, don't expect it to work in older versions.
 
 If you have any issues, please **don't** make an issue on the issues tab. Feel free to open a pull request or even [fork this repository](https://github.com/kubburdotcom/dickbouncer/fork) and improve it yourself, because we won't maintain it :)
+
+Regardless, we hope you find this at least partially useful!
 
 # license
 
